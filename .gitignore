@@ -1,8 +1,13 @@
 # Byte-compiled / optimized / DLL files
+# PyCharm
 __pycache__/
 .vscode/
 *.py[cod]
 *$py.class
+.idea/
+
+# VS Coder
+.vscode/
 
 # C extensions
 *.so

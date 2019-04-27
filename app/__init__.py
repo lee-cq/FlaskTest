@@ -1,4 +1,5 @@
 from flask import Flask
 
-def APP()
+
+def app():
     print("OK!")
